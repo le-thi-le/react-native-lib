@@ -1,6 +1,6 @@
-# react-native-belle-study
+# sc-ai-result
 
-belle study 
+belle torus shared components AI result
 
 ## Installation
 
