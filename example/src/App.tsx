@@ -10,7 +10,7 @@ export default function App() {
   // const [index, setIndex] = React.useState<number>(0);
 
   return (
-    <BelleStudyHomeContainer studyAddress={''} aiGetToken={''}/>
+    <BelleStudyHomeContainer configService={{ANALYTIC_URL:'', IMAGE_QUALITY_URL:'', SERVER_ORG_ADDRESS_NEW : '', TOKEN_API_AI_URL:''}}/>
   );
 }
 

@@ -153,7 +153,22 @@
     ]
   },
   "dependencies": {
+    "react-native-reanimated": "2.2.4",
+    "react-native-root-siblings": "~4.1.0",
+    "react-redux": "~7.2.1",
+    "redux": "~4.0.5",
+    "react-native-linear-gradient": "~2.5.6",
+    "react-native-modal": "~13.0.1",
     "react-native-blob-util": "^0.16.3",
-    "@types/react-native-i18n": "^2.0.0"
+    "react-native-fs": "~2.18.0",
+    "react-native-root-toast": "~3.2.1",
+    "@types/react-native-i18n": "^2.0.0",
+    "axios": "~0.20.0",
+    "redux-persist": "~6.0.0",
+    "redux-thunk": "~2.3.0",
+    "redux-devtools-extension": "~2.13.8",
+    "react-navigation": "4.0.10",
+    "@react-native-async-storage/async-storage": "~1.15.4",
+    "react-native-belle-core": "git+https://belleai@dev.azure.com/belleai/Common%20Library/_git/Native-Components#develop"
   }
 }
